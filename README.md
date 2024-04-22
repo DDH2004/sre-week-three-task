@@ -1,4 +1,4 @@
-There are a number of tools on the market that can hep reduce the toil in UpCommerce's ticketing system. The following is a list of a few of them:
+There are a number of tools on the market that can hep reduce the toil in UpCommerce's ticketing system. The following is a list of a few of them:\n
   PagerDuty
     Automated incident resolution, structured escalation protocols, and urgency-driven task prioritization.
   Opsgenie
